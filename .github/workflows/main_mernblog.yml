@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'mernblog'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_19F2E8D2EF2643CD9DA84D7E225C976D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B4607EBA3E004361B77BB975C433FF86 }}
           package: .
